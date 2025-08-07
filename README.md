@@ -9,7 +9,7 @@
 
 ### 🧪 Exercícios Práticos
 - [Exercícios guiados sobre funções](https://colab.research.google.com/drive/1vZd6uLBDUuQqvdc0B5ZYHKzD9GIYjcWb)  
-- [Exercícios extras para prática individual](https://colab.research.google.com/drive/1BBkbh_PfC4FO52cH3UYtLhZXKfLimuok?authuser=0#scrollTo=H-fbNKq9jHuR)
+- [Exercícios extras para prática individual](https://colab.research.google.com/drive/1BBkbh_PfC4FO52cH3UYtLhZXKfLimuok?usp=sharing)
 
 ---
 
