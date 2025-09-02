@@ -1,17 +1,18 @@
-# Aula 10 — Funções em Python
+# Atividades e exercicios utilizado no Estágio Docente de Algoritmos
+Este repositório guarda os exercícios e atividades que o estagiario utilizou e desenvolveu para os alunos da disciplina de Algoritmos, ofertada pela Prof. Dra. Regiane Kawasaki na Faculdade de Computação na Universidade Federal do Pará.
 
-## 📚 Universidade Federal do Pará  
-**Disciplina:** Algoritmos  
+## Aula 10 — Funções em Python
 
----
+### 🔗 Links dos Notebooks no Google Colab
 
-## 🔗 Links dos Notebooks no Google Colab
-
-### 🧪 Exercícios Práticos
+#### 🧪 Exercícios Práticos
 - [Exercícios guiados sobre funções](https://colab.research.google.com/drive/1vZd6uLBDUuQqvdc0B5ZYHKzD9GIYjcWb)  
 - [Exercícios extras para prática individual](https://colab.research.google.com/drive/1BBkbh_PfC4FO52cH3UYtLhZXKfLimuok?usp=sharing)
 
 ---
+
+#### Exercicíos de fixação de vetor e matrizes
+O gabarito do exercício encontra-se na pasta notebook
 
 ## ✏️ Observações
 - Use os notebooks para testar seus códigos e registrar suas respostas.
